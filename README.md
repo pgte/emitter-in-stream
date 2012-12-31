@@ -47,7 +47,7 @@ test('lives in stream and reacts to stream end', function(t) {
   eis.emit('event', 'ghi', 'jkl');
   t.ok(true);
 });
-``
+```
 
 # Licence
 
